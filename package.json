@@ -1,0 +1,11 @@
+{
+  "name": "pitchhhmvp",
+  "version": "1.0.0",
+  "description": "Pitchhh MVP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
